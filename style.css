@@ -47,20 +47,20 @@ h1 {
 
 .home {
 	background-image: url("http://i.imgur.com/D977bjP.jpg");
-    background-repeat: cover;
+    background-repeat: no-repeat;
 }
 
 .ourtrade {
     background-image: url("http://i.imgur.com/KbjSJmx.jpg");
-     background-size: cover;
+     background-size: no-repeat;
 }
 
 .quote {
     background-image: url("http://i.imgur.com/wLrjw7E.jpg");
-     background-size: cover;
+     background-size: no-repeat;
 }
 
 .contact{
     background-image: url("http://i.imgur.com/wLrjw7E.jpg");
-     background-size: cover;
+     background-size: no-repeat;
 }
