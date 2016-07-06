@@ -64,3 +64,7 @@ h1 {
     background-image: url("http://i.imgur.com/wLrjw7E.jpg");
      background-size: no-repeat;
 }
+
+.trade {
+    text-align: center;
+}
